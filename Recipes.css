@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color:rgb(155, 89, 4);
+    background-color: rgb(236, 191, 123);
+
+}
+
+button {
+    border-bottom: 40px;
+    font-size: 50px;
+    background-color: rgb(235, 158, 58);
+    
+}
+

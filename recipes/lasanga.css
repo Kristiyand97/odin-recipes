@@ -1,0 +1,46 @@
+
+body {
+    background-color: rgb(214, 132, 77);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(194, 163, 79);
+    color:rgb(245, 245, 245)
+}
+
+.lasanga { 
+    width: auto;
+    height: 600px;
+}
+.image-with-text {
+    overflow: auto; /* Clear floats */
+  }
+  
+.lasanga {
+    border-radius: 15%;
+}
+
+h3 {
+color:aliceblue
+}
+ul, ol {
+    color:azure;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 20px;
+    
+}
+img {
+    margin-left: 400px;
+}
+#Ingridients h3 ul {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 40px;
+    color:aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
