@@ -4,7 +4,7 @@ This project is a collection of recipes created as part of The Odin Project curr
 
 ## Skills Demonstrated
 
-By completing this project, you will demonstrate the following skills:
+By completing this project, I will demonstrate the following skills:
 
 - Understanding Git basics
 - Cloning a repository
